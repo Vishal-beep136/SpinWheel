@@ -8,7 +8,7 @@ import android.graphics.drawable.Drawable;
 import android.util.TypedValue;
 
 /**
- * Created by kiennguyen on 11/5/16.
+ * Created by Vishal.
  */
 
 public class LuckyWheelUtils {

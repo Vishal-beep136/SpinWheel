@@ -35,9 +35,7 @@ import com.example.quizme.SpinWheel.model.LuckyItem;
 import java.util.List;
 import java.util.Random;
 
-/**
- * Created by kiennguyen on 11/5/16.
- */
+
 
 public class PielView extends View {
     private RectF mRange = new RectF();
